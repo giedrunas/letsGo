@@ -1,0 +1,7 @@
+.vs/
+packages/
+VCSAutomationProject/bin/
+VCSAutomationProject/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+VCSAutomationProject/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+VCSAutomationProject/obj/
+TestWebDriver/obj/
