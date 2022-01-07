@@ -75,10 +75,18 @@
     <Compile Include="demoQAcheckboxes.cs" />
     <Compile Include="ND2.cs" />
     <Compile Include="ND2_2.cs" />
+    <Compile Include="Page\BasicCalculatorPage.cs" />
+    <Compile Include="Page\CheckBoxClicksPage.cs" />
     <Compile Include="Page\DemoQATextBoxPage.cs" />
+    <Compile Include="Page\DesktopDownloadsPage.cs" />
+    <Compile Include="Page\NotesGeneralPage.cs" />
     <Compile Include="PiguLt.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tests\BasicCalculatorTest.cs" />
+    <Compile Include="Tests\CheckBoxClicksTest.cs" />
     <Compile Include="Tests\DemoQATextBoxTest.cs" />
+    <Compile Include="Tests\DesktopDownloadsTest.cs" />
+    <Compile Include="Tests\NotesGeneralTest.cs" />
     <Compile Include="TestWebDriver.cs" />
     <Compile Include="uzduotis01.cs" />
   </ItemGroup>
